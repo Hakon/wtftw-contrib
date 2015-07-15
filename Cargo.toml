@@ -5,7 +5,8 @@ version = "0.0.1"
 authors = ["Simon Wollwage"]
 
 [dependencies.wtftw]
-git = "https://github.com/Kintaro/wtftw.git"
+git = "https://github.com/skade/wtftw.git"
+branch = "stable-rust"
 
 [dependencies]
 bitflags = "0.1"
